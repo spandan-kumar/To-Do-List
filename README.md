@@ -7,6 +7,8 @@ This is a simple web application that allows you to create and manage your to-do
 - **Remove Tasks**: Remove a task by clicking the "x" button next to it.
 - **Persistence**: Your tasks are saved locally in your browser's storage, so you won't lose them even if you close the application.
 
+Preview: https://codepen.io/spandan-kumar/pen/abPOpBO
+
 ## Usage
 
 1. Clone this repository to your local machine.
